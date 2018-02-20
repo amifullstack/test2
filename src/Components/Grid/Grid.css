@@ -1,0 +1,16 @@
+.animal {
+  padding-top: 50px;
+}
+
+.food {
+  padding: 50px;
+}
+
+h4, h1{
+  text-align: center;
+}
+
+.pagination{  
+  width: 40%;
+  margin: 0 auto;
+}

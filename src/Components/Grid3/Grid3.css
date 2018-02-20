@@ -1,0 +1,15 @@
+.technology {
+  padding-top: 50px;
+}
+.transport {
+  padding: 50px;
+}
+
+h4, h1{
+  text-align: center;
+}
+
+.pagination{  
+  width: 40%;
+  margin: 0 auto;
+}
